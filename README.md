@@ -1,1 +1,1 @@
-# trail
+This is a trail file.
